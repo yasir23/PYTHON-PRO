@@ -17,3 +17,7 @@ mypy
 
 commands
 pip install -r requitements.txt
+
+
+documents
+pep8 
