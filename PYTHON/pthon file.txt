@@ -19,5 +19,17 @@ commands
 pip install -r requitements.txt
 
 
+
+
+
+operators 
+
+!pip install pandas
+import pandas as pd
+
+table = pd.read_html('https://www.w3schools.com/python/python_operators.asp')
+table[0]
+
+
 documents
 pep8 
