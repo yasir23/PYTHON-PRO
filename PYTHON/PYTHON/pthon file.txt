@@ -1,0 +1,35 @@
+# PYTHON
+PRINT("YASIR")
+TOUCH CLASS.PY
+CODE .
+peps.python.org
+conda create -n python12 python==3.12 -y
+conda activate python12
+
+
+requirements
+numpy
+pandas
+pandas
+jupyter
+mypy
+
+
+commands
+pip install -r requitements.txt
+
+
+
+
+
+operators 
+
+!pip install pandas
+import pandas as pd
+
+table = pd.read_html('https://www.w3schools.com/python/python_operators.asp')
+table[0]
+
+
+documents
+pep8 
